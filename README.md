@@ -2,10 +2,7 @@
 - 
 - 👀 I’m interested in :
 -   С# Backend development
--   
-- 🌱 I’m currently learning :
--   LINQ, Entity Framework
--   
+-     
 - 📫 How to reach me :
 - Telegram : @ChilloutBoo
 - VK : https://vk.com/chilloutboy
