@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DenisOzindzhe
 - 
 - 👀 I’m interested in :
--   С# Backend development 
+-   С# Backend development
 -   
 - 🌱 I’m currently learning :
 -   LINQ, Entity Framework
