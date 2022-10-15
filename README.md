@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DenisOzindzhe
 - 
 - 👀 I’m interested in :
--   С# Backend development
+- Backend development : GO, C#
 -     
 - 📫 How to reach me :
 - Telegram : @ChilloutBoo
